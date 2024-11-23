@@ -1,1 +1,1 @@
-// added js feauture
+// added js feature
